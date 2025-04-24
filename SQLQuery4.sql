@@ -1,4 +1,4 @@
--- Aktif baðlantýlarý görüntüle
+
 SELECT 
     DB_NAME(dbid) as DBName,
     COUNT(dbid) as NumberOfConnections,
